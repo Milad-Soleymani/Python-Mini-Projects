@@ -1,6 +1,6 @@
 import turtle as Tur
 
-
+print("if Do not answer the questions, You will get an error ")
 side =  int(input( "be polygonal?"))
 width =  int(input( "What is the length of the shape?"))
 repeat =  int(input( "How many times to repeat?"))
